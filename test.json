@@ -7,7 +7,7 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "AgglomerativeCluster", [
+      {"name": "AgglomerativeCluster", "children": [
         {"name": "BetweennessCentrality1", "size": 3534},
         {"name": "LinkDistance1", "size": 5731},
         {"name": "MaxFlowMinCut1", "size": 7840},
